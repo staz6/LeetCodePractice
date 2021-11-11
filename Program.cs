@@ -6,7 +6,9 @@ namespace LeetCode
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            SumOfTwo sumOfTwo = new SumOfTwo();
+            int[] sumOfTwoResult=sumOfTwo.sumOfTwoOptimal(new int[] {2,7,11,15},9);
+            Console.WriteLine(string.Join(" ", sumOfTwoResult));
         }
     }
 }
