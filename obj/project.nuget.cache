@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QuqN9HbCnRTj4anETEyDDSu/cHA7FOc964yvUYyj6HUfE5ycv4szFUpgXCF6jZG5NxLCv46vrmvK0SARHzg0GQ==",
+  "dgSpecHash": "ifg1eejfGe0mRsyvmS03NgRzfFVeYOzqphEPdrhZacYoUou+4keoiDAc4wFZj8v6vMq8g37fbvhewaREC1jVJg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\staz\\Documents\\LeetCode\\LeetCode.csproj",
+  "projectFilePath": "/home/staz/Documents/Tutorial/LeetCodePractice/LeetCode.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

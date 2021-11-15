@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\staz\\Documents\\LeetCode\\LeetCode.csproj": {}
+    "/home/staz/Documents/Tutorial/LeetCodePractice/LeetCode.csproj": {}
   },
   "projects": {
-    "C:\\Users\\staz\\Documents\\LeetCode\\LeetCode.csproj": {
+    "/home/staz/Documents/Tutorial/LeetCodePractice/LeetCode.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\staz\\Documents\\LeetCode\\LeetCode.csproj",
+        "projectUniqueName": "/home/staz/Documents/Tutorial/LeetCodePractice/LeetCode.csproj",
         "projectName": "LeetCode",
-        "projectPath": "C:\\Users\\staz\\Documents\\LeetCode\\LeetCode.csproj",
-        "packagesPath": "C:\\Users\\staz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\staz\\Documents\\LeetCode\\obj\\",
+        "projectPath": "/home/staz/Documents/Tutorial/LeetCodePractice/LeetCode.csproj",
+        "packagesPath": "/home/staz/.nuget/packages/",
+        "outputPath": "/home/staz/Documents/Tutorial/LeetCodePractice/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\staz\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/staz/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.301/RuntimeIdentifierGraph.json"
         }
       }
     }
